@@ -1,6 +1,6 @@
 
-ptFile = 'working_files/utro-pom_plain_text.txt'
-outDir = 'final_source_files/Utro-Pomeshchika'
+ptFile = 'working_files/albert_plain_text.txt'
+outDir = 'final_source_files/Albert'
 
 with open(ptFile, 'r') as f:
     pt = f.read()
