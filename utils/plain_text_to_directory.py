@@ -1,6 +1,6 @@
 
-ptFile = 'working_files/albert_plain_text.txt'
-outDir = 'final_source_files/Albert'
+ptFile = 'working_files/wp-4-e2.txt'
+outDir = 'final_source_files/Voina-I-Mir/Epilog/Chast-Vtoraya'
 
 with open(ptFile, 'r') as f:
     pt = f.read()
